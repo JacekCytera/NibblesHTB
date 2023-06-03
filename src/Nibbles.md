@@ -1,7 +1,6 @@
 ---
 title: Nibbles
 author: Jacek Cytera
-date: \today
 geometry: margin=2cm
 
 ---
